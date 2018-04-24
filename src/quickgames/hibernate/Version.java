@@ -9,8 +9,8 @@ public final class Version {
 
     static {
         _version = "0.0.0";
-        _build = 1;
-        _date = "23.04.2018";
+        _build = 2;
+        _date = "24.04.2018";
     }
 
     //endregion
